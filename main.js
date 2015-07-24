@@ -4,7 +4,7 @@ var green = [7, 100, 13];
 var blue = [49, 95, 122];
 var purple = [33, 63, 82];
 
-var myName = "www.COPIAPEL.com";
+var myName = "COPIAPEL.com";
 letterColors = [red]
 if(10 > 3) {    
 bubbleShape = "circle";
